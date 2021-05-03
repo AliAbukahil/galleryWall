@@ -2,4 +2,4 @@
 
 ### Nature
 
-    <img src="" alt="nature">
+    <img src="https://github.com/AliAbukahil/galleryWall/blob/main/src/img/ezgif.com-gif-maker.gif" alt="nature">
