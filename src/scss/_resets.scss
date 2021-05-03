@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+@font-face {
+  font-family: "Akaya Telivigala";
+  /*   src: url("../fonts/AkayaTelivigala-Regular.ttf"); */
+}
+
+body {
+  font-family: "Akaya Telivigala";
+  // Forest Linear gradient
+  background: #5a3f37; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c7744,
+    #5a3f37
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2c7744,
+    #5a3f37
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h3 {
+  font-size: 10rem;
+  color: rgb(255, 157, 0);
+  text-align: center;
+}
